@@ -28,7 +28,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone https://github.com/ICA-REX/ica_hack.py.git
+https://github.com/ICA-REX/ICA-REX.git
 ```
 ```bash
 cd ica_hack
