@@ -31,7 +31,7 @@ apt install git -y
 https://github.com/ICA-REX/ICA-REX.git
 ```
 ```bash
-cd ica_hack
+cd ICA-REX
 ```
 ```bash
 bash setup
