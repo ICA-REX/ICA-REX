@@ -1,0 +1,5 @@
+#bin/python
+#codded by hacker rex
+
+pip install mechanize
+pkg install wget
